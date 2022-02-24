@@ -1,0 +1,21 @@
+$primary-color: #ebebeb;
+$bg: #1c1c1c;
+$bg-secondary: #242424;
+$bg-ligth-theme: #ebebeb;
+
+h1 {
+  color: $primary-color;
+  background-color: $bg;
+}
+
+body {
+  background: $bg;
+  color: $primary-color;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-variant-numeric: tabular-nums;
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum";
+}
+

@@ -1,0 +1,11 @@
+$primary-color: #ebebeb;
+$bg: #1c1c1c;
+$bg-secondary: #242424;
+$bg-ligth-theme: #ebebeb;
+
+aside {
+    -webkit-box-shadow: 5px 5px 13px -3px #000000; 
+    box-shadow: 5px 5px 13px -3px #000000;
+    background-color: $bg-secondary;
+    height: calc(100vh - 97px) !important;
+}
